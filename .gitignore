@@ -12,7 +12,7 @@ build/
 .poetry/
 .poetry.lock
 
-# MLflow
+# MLflow --> ignores the files related to MLflow (which is a kind of database)
 mlruns/
 
 # Data
